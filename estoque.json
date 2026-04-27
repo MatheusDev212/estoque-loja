@@ -42,10 +42,10 @@
       "combustivel": "Flex",
       "descricao": "Moto revisada, em ótimo estado de conservação",
 
-      "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39%20(1).jpeg?raw=true"
-      ],
+     "fotos": [
+  "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39.jpeg",
+  "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39%20(1).jpeg"
+]
 
       "opcionais": [
         "Partida elétrica",
