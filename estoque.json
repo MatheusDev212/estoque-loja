@@ -8,7 +8,7 @@
   "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
   
   "fotos": [
-    "https://seu-link-da-foto1.jpg",
+    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2013.20.30.jpeg?raw=true",
     "https://seu-link-da-foto2.jpg",
     "https://seu-link-da-foto3.jpg"
   ],
@@ -16,5 +16,6 @@
   "opcionais": [
     "Ar condicionado",
     "Direção elétrica"
+    
   ]
 }
