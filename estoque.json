@@ -32,6 +32,36 @@
     },
 
     {
+      "nome": "VW Gol 1.0",
+      "ano": 2023,
+      "preco_de": 62900,
+      "preco_por": 59900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "VW Gol 1.0 2023, completo, revisado e em excelente estado",
+      "fotos": [
+        "",
+        ""
+      ],
+      "opcionais": [
+        "Motor 1.0 flex",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Som interno"
+      ],
+      "observacoes": [
+        "04 pneus seminovos",
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Manual e chave cópia",
+        "Único dono"
+      ]
+    },
+
+    {
       "nome": "Honda NXR 150 Bros ESD Mix",
       "ano": 2014,
       "preco_de": 14900,
@@ -152,95 +182,6 @@
     },
 
     {
-      "nome": "Hyundai Tucson GLS 2.0 Automático",
-      "ano": 2013,
-      "preco_de": 52900,
-      "preco_por": 49900,
-      "cambio": "Automático",
-      "combustivel": "Gasolina",
-      "descricao": "Hyundai Tucson GLS 2013 automática, revisada e em ótimo estado",
-      "fotos": [
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25.jpeg",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25%20(1).jpeg"
-      ],
-      "opcionais": [
-        "Motor 2.0 gasolina",
-        "Direção hidráulica",
-        "Ar condicionado",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em couro",
-        "04 pneus seminovos"
-      ],
-      "observacoes": [
-        "Documentos 2026 em aberto",
-        "Manual e chave cópia",
-        "Veículo com total procedência (sem leilão ou sinistro)"
-      ]
-    },
-
-    {
-      "nome": "Hyundai HB20 Comfort 1.0",
-      "ano": 2025,
-      "preco_de": 79900,
-      "preco_por": 77900,
-      "cambio": "Manual",
-      "combustivel": "Flex",
-      "descricao": "Hyundai HB20 Comfort 1.0 2025, completo, revisado e em excelente estado",
-      "fotos": [
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.55.jpeg",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.57.jpeg"
-      ],
-      "opcionais": [
-        "Motor 1.0 flex",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em tecido",
-        "Som multimídia",
-        "Câmera de ré"
-      ],
-      "observacoes": [
-        "04 pneus seminovos",
-        "Documentos em dia",
-        "Veículo com total procedência (sem leilão ou sinistro)",
-        "Manual e chave cópia",
-        "Único dono"
-      ]
-    },
-
-    {
-      "nome": "VW Polo Track 1.0",
-      "ano": 2025,
-      "preco_de": 84900,
-      "preco_por": 82900,
-      "cambio": "Manual",
-      "combustivel": "Flex",
-      "descricao": "VW Polo Track 1.0 2025, completo, revisado e em excelente estado",
-      "fotos": [
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37.jpeg",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37%20(1).jpeg"
-      ],
-      "opcionais": [
-        "Motor 1.0 flex",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em tecido",
-        "Som multimídia"
-      ],
-      "observacoes": [
-        "04 pneus seminovos",
-        "Documentos em dia",
-        "Veículo com total procedência (sem leilão ou sinistro)",
-        "Manual e chave cópia",
-        "Único dono"
-      ]
-    },
-
-    {
       "nome": "Renault Duster 1.6 Automática",
       "ano": 2022,
       "preco_de": 97900,
@@ -249,8 +190,8 @@
       "combustivel": "Flex",
       "descricao": "Renault Duster 1.6 automática 2022, completa, revisada e em excelente estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.07.43.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.07.45.jpeg?raw=true"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.07.43.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.07.45.jpeg"
       ],
       "opcionais": [
         "Motor 1.6 flex",
@@ -267,6 +208,36 @@
         "04 pneus bons",
         "Documentos 2025 pagos",
         "Segundo dono"
+      ]
+    },
+
+    {
+      "nome": "Hyundai Creta Limited 1.0 Turbo",
+      "ano": 2024,
+      "preco_de": 124900,
+      "preco_por": 119900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Hyundai Creta Limited 2024 automática, completa, revisada e em excelente estado",
+      "fotos": [
+        "",
+        ""
+      ],
+      "opcionais": [
+        "Motor 1.0 Turbo",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Rodas esportivas",
+        "Som multimídia"
+      ],
+      "observacoes": [
+        "Abaixo da FIPE",
+        "04 pneus seminovos",
+        "Documentos em dia",
+        "Manual e chave cópia"
       ]
     }
   ]
