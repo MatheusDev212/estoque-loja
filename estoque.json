@@ -42,10 +42,10 @@
       "combustivel": "Flex",
       "descricao": "Moto revisada, em ótimo estado de conservação",
 
-     "fotos": [
-  "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39.jpeg",
-  "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39%20(1).jpeg"
-]
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39%20(1).jpeg"
+      ],
 
       "opcionais": [
         "Partida elétrica",
@@ -58,6 +58,40 @@
         "Documentos 2026 em aberto",
         "02 pneus bons",
         "Veículo em ótimo estado"
+      ]
+    },
+    {
+      "nome": "Audi A4 Sedan 2.0 190cv",
+      "ano": 2021,
+      "preco_de": 174900,
+      "preco_por": 169900,
+      "cambio": "Automático",
+      "combustivel": "Gasolina",
+      "descricao": "Audi A4 Sedan 2021, completo, revisado e em excelente estado",
+
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/AUDI1.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/AUDI2.jpeg"
+      ],
+
+      "opcionais": [
+        "Teto solar",
+        "Motor 2.0 190cv",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em couro bege",
+        "Rodas esportivas aro 18",
+        "04 pneus novos Continental",
+        "Som multimídia",
+        "Câmera de ré"
+      ],
+
+      "observacoes": [
+        "70 mil kms",
+        "Documentos 2025 pagos",
+        "Manual e chave cópia"
       ]
     }
   ]
