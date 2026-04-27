@@ -239,8 +239,8 @@
       "combustivel": "Flex",
       "descricao": "GM Onix LT 1.4 automático 2019, completo, revisado e em excelente estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.26.25.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.26.27.jpeg?raw=true"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.26.25.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.26.27.jpeg"
       ],
       "opcionais": [
         "Motor 1.4 flex",
@@ -256,6 +256,34 @@
         "Documentos 2025 pagos",
         "Manual e chave cópia",
         "Veículo com total procedência (sem leilão ou sinistro)"
+      ]
+    },
+    {
+      "nome": "Ford Ka 1.0",
+      "ano": 2013,
+      "preco_de": 27900,
+      "preco_por": 24900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Ford Ka 1.0 2013, econômico, revisado e em bom estado",
+      "fotos": [
+        "",
+        ""
+      ],
+      "opcionais": [
+        "Motor 1.0 flex",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Som interno"
+      ],
+      "observacoes": [
+        "138 mil kms",
+        "04 pneus seminovos",
+        "Documentos 2025 pagos",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Financiamento disponível",
+        "Abaixo da FIPE"
       ]
     }
   ]
