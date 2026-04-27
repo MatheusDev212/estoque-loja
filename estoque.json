@@ -1,4 +1,23 @@
-{
+[18:07, 27/04/2026] Matheus Junior: {
+  "empresa": "Savicar Automóveis",
+  "veiculos": [
+
+    {
+      "nome": "Ford Fiesta Sedan 1.6",
+      "ano": 2014,
+      "preco_de": 42900,
+      "preco_por": 39900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.30.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.31.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.32.jpeg"
+      ],
+      "opcionais": [
+        "Ar condicionado"…
+[18:10, 27/04/2026] Matheus Junior: {
   "empresa": "Savicar Automóveis",
   "veiculos": [
 
@@ -40,7 +59,7 @@
       "cambio": "Manual",
       "combustivel": "Flex",
       "descricao": "VW Gol 1.0 2023, completo, revisado e em excelente estado",
-      "fotos": ["", ""],
+      "fotos": [],
       "opcionais": [
         "Motor 1.0 flex",
         "Ar condicionado",
@@ -338,7 +357,10 @@
       "cambio": "Automático",
       "combustivel": "Flex",
       "descricao": "Golf Highline 1.4 TSI com teto solar",
-      "fotos": ["https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2018.03.10.jpeg?raw=true""https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2018.03.11.jpeg?raw=true"],
+      "fotos": [
+        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2018.03.10.jpeg?raw=true",
+        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2018.03.11.jpeg?raw=true"
+      ],
       "opcionais": [
         "Motor 1.4 TSI",
         "Teto solar",
