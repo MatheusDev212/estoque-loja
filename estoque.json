@@ -112,41 +112,67 @@
         "04 pneus bons",
         "Documentos 2025 pagos"
       ]
-    }, {
-  "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
-  "ano": 2020,
-  "preco_de": 129900,
-  "preco_por": 124900,
-  "cambio": "Automático",
-  "combustivel": "Diesel",
-  "descricao": "Jeep Compass Limited S 2020 Diesel, completo, revisado e em excelente estado",
-
-  "fotos": [
-    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58.jpeg?raw=true",
-    "COLE_AQUI_FOTO_2"
-  ],
-
-  "opcionais": [
-    "Teto solar panorâmico",
-    "Motor 2.0 Diesel",
-    "Tração 4x4",
-    "Ar condicionado",
-    "Direção elétrica",
-    "Vidros elétricos",
-    "Travas elétricas",
-    "Bancos em couro",
-    "Rodas esportivas",
-    "Som multimídia",
-    "DVD traseiro encosto de cabeça"
-  ],
-
-  "observacoes": [
-    "04 pneus seminovos",
-    "Documentos em dia",
-    "Veículo com total procedência (sem leilão ou sinistro)",
-    "Manual e chave cópia",
-    "Veículo de único dono"
-  ]
-}
+    },
+    {
+      "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
+      "ano": 2020,
+      "preco_de": 129900,
+      "preco_por": 124900,
+      "cambio": "Automático",
+      "combustivel": "Diesel",
+      "descricao": "Jeep Compass Limited S 2020 Diesel, completo, revisado e em excelente estado",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58%20(1).jpeg"
+      ],
+      "opcionais": [
+        "Teto solar panorâmico",
+        "Motor 2.0 Diesel",
+        "Tração 4x4",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em couro",
+        "Rodas esportivas",
+        "Som multimídia",
+        "DVD traseiro encosto de cabeça"
+      ],
+      "observacoes": [
+        "04 pneus seminovos",
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Manual e chave cópia",
+        "Veículo de único dono"
+      ]
+    },
+    {
+      "nome": "VW Golf Limited Edition 1.6",
+      "ano": 2012,
+      "preco_de": 59900,
+      "preco_por": 57900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "VW Golf Limited Edition 2012 com teto solar, revisado e com garantia",
+      "fotos": [
+        "COLE_AQUI_FOTO_1",
+        "COLE_AQUI_FOTO_2"
+      ],
+      "opcionais": [
+        "Teto solar",
+        "Motor 1.6 Flex",
+        "Direção hidráulica",
+        "Ar condicionado digital",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Rodas esportivas",
+        "04 pneus novos",
+        "Bancos em couro"
+      ],
+      "observacoes": [
+        "Documentos 2026 em aberto",
+        "Veículo revisado com garantia"
+      ]
+    }
   ]
 }
