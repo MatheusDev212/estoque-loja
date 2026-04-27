@@ -1,21 +1,64 @@
 {
-  "nome": "Ford Fiesta Sedan 1.6",
-  "ano": 2014,
-  "preco_de": 42900,
-  "preco_por": 39900,
-  "cambio": "Manual",
-  "combustivel": "Flex",
-  "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
-  
-  "fotos": [
-    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2013.20.30.jpeg?raw=true",
-    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2013.20.31%20(1).jpeg?raw=true",
-    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2013.20.31.jpeg?raw=true"
-  ],
+  "empresa": "Savicar Automóveis",
+  "veiculos": [
+    {
+      "nome": "Ford Fiesta Sedan 1.6",
+      "ano": 2014,
+      "preco_de": 42900,
+      "preco_por": 39900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
 
-  "opcionais": [
-    "Ar condicionado",
-    "Direção elétrica"
-    
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.30.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.31.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.32.jpeg"
+      ],
+
+      "opcionais": [
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "04 pneus seminovos",
+        "Rodas esportivas",
+        "Som interno"
+      ],
+
+      "observacoes": [
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Manual e chave cópia"
+      ]
+    },
+    {
+      "nome": "Honda NXR 150 Bros ESD Mix",
+      "ano": 2014,
+      "preco_de": 14900,
+      "preco_por": 13900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Moto revisada, em ótimo estado de conservação",
+
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/SUA-FOTO1.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/SUA-FOTO2.jpeg"
+      ],
+
+      "opcionais": [
+        "Partida elétrica",
+        "Freio a disco",
+        "Banco em couro"
+      ],
+
+      "observacoes": [
+        "41 mil kms",
+        "Documentos 2026 em aberto",
+        "02 pneus bons",
+        "Veículo em ótimo estado"
+      ]
+    }
   ]
 }
