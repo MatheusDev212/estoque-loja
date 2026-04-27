@@ -147,27 +147,26 @@
       ]
     },
     {
-      "nome": "VW Golf Limited Edition 1.6",
-      "ano": 2012,
-      "preco_de": 59900,
-      "preco_por": 57900,
-      "cambio": "Manual",
+      "nome": "GM Prisma LT 1.4 Automático",
+      "ano": 2019,
+      "preco_de": 64900,
+      "preco_por": 59900,
+      "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "VW Golf Limited Edition 2012 com teto solar, revisado e com garantia",
+      "descricao": "GM Prisma LT 1.4 Automático 2019, revisado e em ótimo estado",
       "fotos": [
         "COLE_AQUI_FOTO_1",
         "COLE_AQUI_FOTO_2"
       ],
       "opcionais": [
-        "Teto solar",
-        "Motor 1.6 Flex",
+        "Motor 1.4 Flex",
         "Direção hidráulica",
-        "Ar condicionado digital",
+        "Ar condicionado",
         "Vidros elétricos",
         "Travas elétricas",
         "Rodas esportivas",
-        "04 pneus novos",
-        "Bancos em couro"
+        "Pneus bons",
+        "Bancos em tecido"
       ],
       "observacoes": [
         "Documentos 2026 em aberto",
