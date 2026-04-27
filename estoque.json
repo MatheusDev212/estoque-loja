@@ -1,6 +1,7 @@
 {
   "empresa": "Savicar Automóveis",
   "veiculos": [
+
     {
       "nome": "Ford Fiesta Sedan 1.6",
       "ano": 2014,
@@ -30,6 +31,7 @@
         "Manual e chave cópia"
       ]
     },
+
     {
       "nome": "VW Gol 1.0",
       "ano": 2023,
@@ -51,11 +53,12 @@
       "observacoes": [
         "04 pneus seminovos",
         "Documentos em dia",
-        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Veículo com total procedência",
         "Manual e chave cópia",
         "Único dono"
       ]
     },
+
     {
       "nome": "Honda NXR 150 Bros ESD Mix",
       "ano": 2014,
@@ -80,6 +83,7 @@
         "Veículo em ótimo estado"
       ]
     },
+
     {
       "nome": "Audi A4 Sedan 2.0 190cv",
       "ano": 2021,
@@ -87,7 +91,7 @@
       "preco_por": 169900,
       "cambio": "Automático",
       "combustivel": "Gasolina",
-      "descricao": "Audi A4 Sedan 2021, completo, revisado e em excelente estado",
+      "descricao": "Audi A4 Sedan 2021, completo e revisado",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46%20(1).jpeg"
@@ -95,14 +99,9 @@
       "opcionais": [
         "Teto solar",
         "Motor 2.0 190cv",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em couro bege",
-        "Rodas esportivas aro 18",
-        "04 pneus novos Continental",
-        "Som multimídia",
+        "Bancos em couro",
+        "Rodas aro 18",
+        "Multimídia",
         "Câmera de ré"
       ],
       "observacoes": [
@@ -111,6 +110,7 @@
         "Manual e chave cópia"
       ]
     },
+
     {
       "nome": "Toyota Hilux SRV 4x4 Flex",
       "ano": 2014,
@@ -118,60 +118,108 @@
       "preco_por": 119900,
       "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "Toyota Hilux SRV 4x4 Flex 2014, revisada e em ótimo estado",
+      "descricao": "Hilux SRV 4x4 Flex 2014, revisada",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.32.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.33.jpeg"
       ],
       "opcionais": [
-        "Motor 2.7 Flex",
-        "Tração 4x4",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em couro",
-        "Rodas esportivas"
+        "Motor 2.7",
+        "4x4",
+        "Bancos em couro"
       ],
       "observacoes": [
         "131 mil kms",
         "04 pneus bons",
-        "Documentos 2025 pagos"
+        "Documentos pagos"
       ]
     },
+
     {
-      "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
+      "nome": "Jeep Compass Limited S Diesel 4x4",
       "ano": 2020,
       "preco_de": 129900,
       "preco_por": 124900,
       "cambio": "Automático",
       "combustivel": "Diesel",
-      "descricao": "Jeep Compass Limited S 2020 Diesel, completo, revisado e em excelente estado",
+      "descricao": "Compass Limited Diesel completo",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58%20(1).jpeg"
       ],
       "opcionais": [
-        "Teto solar panorâmico",
-        "Motor 2.0 Diesel",
-        "Tração 4x4",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em couro",
-        "Rodas esportivas",
-        "Som multimídia",
-        "DVD traseiro encosto de cabeça"
+        "Teto solar",
+        "4x4",
+        "Multimídia"
       ],
       "observacoes": [
-        "04 pneus seminovos",
-        "Documentos em dia",
-        "Veículo com total procedência (sem leilão ou sinistro)",
-        "Manual e chave cópia",
-        "Veículo de único dono"
+        "Único dono",
+        "Sem leilão"
       ]
     },
+
+    {
+      "nome": "Hyundai Tucson GLS 2.0 Automático",
+      "ano": 2013,
+      "preco_de": 52900,
+      "preco_por": 49900,
+      "cambio": "Automático",
+      "combustivel": "Gasolina",
+      "descricao": "Tucson automática revisada",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25%20(1).jpeg"
+      ],
+      "opcionais": [
+        "Bancos em couro",
+        "Ar condicionado"
+      ],
+      "observacoes": [
+        "Procedência garantida"
+      ]
+    },
+
+    {
+      "nome": "Hyundai HB20 Comfort 1.0",
+      "ano": 2025,
+      "preco_de": 79900,
+      "preco_por": 77900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "HB20 2025 completo",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.55.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.57.jpeg"
+      ],
+      "opcionais": [
+        "Multimídia",
+        "Câmera de ré"
+      ],
+      "observacoes": [
+        "Único dono"
+      ]
+    },
+
+    {
+      "nome": "VW Polo Track 1.0",
+      "ano": 2025,
+      "preco_de": 84900,
+      "preco_por": 82900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Polo Track completo",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37%20(1).jpeg"
+      ],
+      "opcionais": [
+        "Multimídia"
+      ],
+      "observacoes": [
+        "Único dono"
+      ]
+    },
+
     {
       "nome": "Renault Duster 1.6 Automática",
       "ano": 2022,
@@ -179,28 +227,20 @@
       "preco_por": 92900,
       "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "Renault Duster 1.6 automática 2022, completa, revisada e em excelente estado",
+      "descricao": "Duster automática completa",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.07.43.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.07.45.jpeg"
       ],
       "opcionais": [
-        "Motor 1.6 flex",
-        "Ar condicionado digital",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em couro",
-        "Som multimídia",
+        "Multimídia",
         "Câmera de ré"
       ],
       "observacoes": [
-        "63 mil kms",
-        "04 pneus bons",
-        "Documentos 2025 pagos",
-        "Segundo dono"
+        "63 mil kms"
       ]
     },
+
     {
       "nome": "Hyundai Creta Limited 1.0 Turbo",
       "ano": 2024,
@@ -208,56 +248,20 @@
       "preco_por": 119900,
       "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "Hyundai Creta Limited 2024 automática, completa, revisada e em excelente estado",
+      "descricao": "Creta Limited completa",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45%20(1).jpeg"
       ],
       "opcionais": [
-        "Motor 1.0 Turbo",
-        "Ar condicionado",
-        "Direção elétrica",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em tecido",
-        "Rodas esportivas",
-        "Som multimídia"
+        "Turbo",
+        "Multimídia"
       ],
       "observacoes": [
-        "Abaixo da FIPE",
-        "04 pneus seminovos",
-        "Documentos em dia",
-        "Manual e chave cópia"
+        "Abaixo da FIPE"
       ]
     },
-    {
-      "nome": "GM Onix 1.4 LT Automático",
-      "ano": 2019,
-      "preco_de": 68900,
-      "preco_por": 66900,
-      "cambio": "Automático",
-      "combustivel": "Flex",
-      "descricao": "GM Onix LT 1.4 automático 2019, completo, revisado e em excelente estado",
-      "fotos": [
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.26.25.jpeg",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.26.27.jpeg"
-      ],
-      "opcionais": [
-        "Motor 1.4 flex",
-        "Direção hidráulica",
-        "Ar condicionado",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em tecido"
-      ],
-      "observacoes": [
-        "106 mil kms",
-        "04 pneus seminovos",
-        "Documentos 2025 pagos",
-        "Manual e chave cópia",
-        "Veículo com total procedência (sem leilão ou sinistro)"
-      ]
-    },
+
     {
       "nome": "Ford Ka 1.0",
       "ano": 2013,
@@ -265,26 +269,40 @@
       "preco_por": 24900,
       "cambio": "Manual",
       "combustivel": "Flex",
-      "descricao": "Ford Ka 1.0 2013, econômico, revisado e em bom estado",
+      "descricao": "Ford Ka econômico",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.39.57.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.39.57%20(1).jpeg?raw=true"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.39.57.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.39.57%20(1).jpeg"
       ],
       "opcionais": [
-        "Motor 1.0 flex",
-        "Vidros elétricos",
-        "Travas elétricas",
-        "Bancos em tecido",
-        "Som interno"
+        "Som",
+        "Vidros elétricos"
       ],
       "observacoes": [
-        "138 mil kms",
-        "04 pneus seminovos",
-        "Documentos 2025 pagos",
-        "Veículo com total procedência (sem leilão ou sinistro)",
-        "Financiamento disponível",
         "Abaixo da FIPE"
       ]
+    },
+
+    {
+      "nome": "VW Virtus 1.0 TSI",
+      "ano": 2025,
+      "preco_de": 109900,
+      "preco_por": 109900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Virtus 2025 único dono",
+      "fotos": ["", ""],
+      "opcionais": [
+        "TSI",
+        "Automático",
+        "Multimídia"
+      ],
+      "observacoes": [
+        "41 mil kms",
+        "Único dono",
+        "Sem leilão"
+      ]
     }
+
   ]
 }
