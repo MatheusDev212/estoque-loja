@@ -291,7 +291,10 @@
       "cambio": "Automático",
       "combustivel": "Flex",
       "descricao": "Virtus 2025 único dono",
-      "fotos": ["https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37.jpeg?raw=true", "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37%20(1).jpeg?raw=true"],
+      "fotos": [
+        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37.jpeg?raw=true",
+        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37%20(1).jpeg?raw=true"
+      ],
       "opcionais": [
         "TSI",
         "Automático",
@@ -301,6 +304,34 @@
         "41 mil kms",
         "Único dono",
         "Sem leilão"
+      ]
+    },
+
+    {
+      "nome": "Fiat Toro 1.3 Turbo",
+      "ano": 2024,
+      "preco_de": 133900,
+      "preco_por": 129900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Fiat Toro 1.3 Turbo 2024 automática, único dono e completa",
+      "fotos": [],
+      "fotos": [] ,
+      "opcionais": [
+        "Motor 1.3 Turbo",
+        "Câmbio automático",
+        "Direção elétrica",
+        "Ar condicionado",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Lona marítima"
+      ],
+      "observacoes": [
+        "Único dono",
+        "04 pneus novos",
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)"
       ]
     }
 
