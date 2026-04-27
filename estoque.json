@@ -147,30 +147,30 @@
       ]
     },
     {
-      "nome": "GM Prisma LT 1.4 Automático",
-      "ano": 2019,
-      "preco_de": 64900,
-      "preco_por": 59900,
+      "nome": "Hyundai Tucson GLS 2.0 Automático",
+      "ano": 2013,
+      "preco_de": 52900,
+      "preco_por": 49900,
       "cambio": "Automático",
-      "combustivel": "Flex",
-      "descricao": "GM Prisma LT 1.4 Automático 2019, revisado e em ótimo estado",
+      "combustivel": "Gasolina",
+      "descricao": "Hyundai Tucson GLS 2013 automática, revisada e em ótimo estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2015.48.06.jpeg?raw=true",
+        "COLE_AQUI_FOTO_1",
         "COLE_AQUI_FOTO_2"
       ],
       "opcionais": [
-        "Motor 1.4 Flex",
+        "Motor 2.0 gasolina",
         "Direção hidráulica",
         "Ar condicionado",
         "Vidros elétricos",
         "Travas elétricas",
-        "Rodas esportivas",
-        "Pneus bons",
-        "Bancos em tecido"
+        "Bancos em couro",
+        "04 pneus seminovos"
       ],
       "observacoes": [
         "Documentos 2026 em aberto",
-        "Veículo revisado com garantia"
+        "Manual e chave cópia",
+        "Veículo com total procedência (sem leilão ou sinistro)"
       ]
     }
   ]
