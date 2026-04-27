@@ -1,0 +1,39 @@
+{
+  "empresa": "Savicar Automóveis",
+  "veiculos": [
+    {
+      "nome": "Ford Fiesta Sedan 1.6",
+      "ano": 2014,
+      "preco_de": 42900,
+      "preco_por": 39900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
+      "opcionais": [
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "04 pneus seminovos",
+        "Rodas esportivas",
+        "Som interno"
+      ],
+      "observacoes": [
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Manual e chave cópia"
+      ],
+      "contato": {
+        "telefone": "49988415293",
+        "whatsapp": "https://api.whatsapp.com/send?phone=5549988415293"
+      },
+      "loja": {
+        "nome": "Savicar Automóveis",
+        "cidade": "Chapecó",
+        "estado": "SC",
+        "endereco": "Rua Vargeão N 257, esquina com Rua São Francisco do Sul - Cristo Rei"
+      }
+    }
+  ]
+}
