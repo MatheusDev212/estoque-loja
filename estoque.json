@@ -155,8 +155,8 @@
       "combustivel": "Gasolina",
       "descricao": "Hyundai Tucson GLS 2013 automática, revisada e em ótimo estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25.jpeg?raw=true",
-        "COLE_AQUI_FOTO_2"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.58.25%20(1).jpeg"
       ],
       "opcionais": [
         "Motor 2.0 gasolina",
@@ -171,6 +171,36 @@
         "Documentos 2026 em aberto",
         "Manual e chave cópia",
         "Veículo com total procedência (sem leilão ou sinistro)"
+      ]
+    },
+    {
+      "nome": "Hyundai HB20 Comfort 1.0",
+      "ano": 2025,
+      "preco_de": 79900,
+      "preco_por": 77900,
+      "cambio": "Manual",
+      "combustivel": "Flex",
+      "descricao": "Hyundai HB20 Comfort 1.0 2025, completo, revisado e em excelente estado",
+      "fotos": [
+        "COLE_AQUI_FOTO_1",
+        "COLE_AQUI_FOTO_2"
+      ],
+      "opcionais": [
+        "Motor 1.0 flex",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Som multimídia",
+        "Câmera de ré"
+      ],
+      "observacoes": [
+        "04 pneus seminovos",
+        "Documentos em dia",
+        "Veículo com total procedência (sem leilão ou sinistro)",
+        "Manual e chave cópia",
+        "Único dono"
       ]
     }
   ]
