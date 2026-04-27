@@ -79,8 +79,7 @@
       "observacoes": [
         "41 mil kms",
         "Documentos 2026 em aberto",
-        "02 pneus bons",
-        "Veículo em ótimo estado"
+        "02 pneus bons"
       ]
     },
 
@@ -91,14 +90,14 @@
       "preco_por": 169900,
       "cambio": "Automático",
       "combustivel": "Gasolina",
-      "descricao": "Audi A4 Sedan 2021, completo e revisado",
+      "descricao": "Audi A4 Sedan 2021 completo e revisado",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46%20(1).jpeg"
       ],
       "opcionais": [
         "Teto solar",
-        "Motor 2.0 190cv",
+        "Motor 2.0",
         "Bancos em couro",
         "Rodas aro 18",
         "Multimídia",
@@ -106,7 +105,7 @@
       ],
       "observacoes": [
         "70 mil kms",
-        "Documentos 2025 pagos",
+        "Documentos pagos",
         "Manual e chave cópia"
       ]
     },
@@ -118,7 +117,7 @@
       "preco_por": 119900,
       "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "Hilux SRV 4x4 Flex 2014, revisada",
+      "descricao": "Hilux SRV 4x4 revisada",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.32.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.33.jpeg"
@@ -130,7 +129,6 @@
       ],
       "observacoes": [
         "131 mil kms",
-        "04 pneus bons",
         "Documentos pagos"
       ]
     },
@@ -142,7 +140,7 @@
       "preco_por": 124900,
       "cambio": "Automático",
       "combustivel": "Diesel",
-      "descricao": "Compass Limited Diesel completo",
+      "descricao": "Compass Diesel completo",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.23.58%20(1).jpeg"
@@ -159,7 +157,7 @@
     },
 
     {
-      "nome": "Hyundai Tucson GLS 2.0 Automático",
+      "nome": "Hyundai Tucson GLS 2.0",
       "ano": 2013,
       "preco_de": 52900,
       "preco_por": 49900,
@@ -180,13 +178,13 @@
     },
 
     {
-      "nome": "Hyundai HB20 Comfort 1.0",
+      "nome": "Hyundai HB20 1.0",
       "ano": 2025,
       "preco_de": 79900,
       "preco_por": 77900,
       "cambio": "Manual",
       "combustivel": "Flex",
-      "descricao": "HB20 2025 completo",
+      "descricao": "HB20 completo",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.55.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.10.57.jpeg"
@@ -292,8 +290,8 @@
       "combustivel": "Flex",
       "descricao": "Virtus 2025 único dono",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37%20(1).jpeg?raw=true"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.46.37%20(1).jpeg"
       ],
       "opcionais": [
         "TSI",
@@ -314,10 +312,8 @@
       "preco_por": 129900,
       "cambio": "Automático",
       "combustivel": "Flex",
-      "descricao": "Fiat Toro 1.3 Turbo 2024 automática, único dono e completa",
-      "fotos": [ "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.57.29.jpeg?raw=true"
-       "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.57.29%20(1).jpeg?raw=true"],
-     
+      "descricao": "Toro 1.3 Turbo automática, único dono",
+      "fotos": [],
       "opcionais": [
         "Motor 1.3 Turbo",
         "Câmbio automático",
@@ -325,14 +321,39 @@
         "Ar condicionado",
         "Vidros elétricos",
         "Travas elétricas",
-        "Bancos em tecido",
-        "Lona marítima"
+        "Bancos em tecido"
       ],
       "observacoes": [
-        "Único dono",
         "04 pneus novos",
         "Documentos em dia",
-        "Veículo com total procedência (sem leilão ou sinistro)"
+        "Sem leilão ou sinistro"
+      ]
+    },
+
+    {
+      "nome": "VW Golf Highline 1.4 TSI",
+      "ano": 2014,
+      "preco_de": 0,
+      "preco_por": 0,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Golf Highline 1.4 TSI com teto solar",
+      "fotos": [""""],
+      "opcionais": [
+        "Motor 1.4 TSI",
+        "Teto solar",
+        "Direção elétrica",
+        "Ar condicionado",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido",
+        "Multimídia",
+        "Volante multifuncional com paddle shift"
+      ],
+      "observacoes": [
+        "Documentos em dia",
+        "Sem leilão ou sinistro",
+        "Manual e chave cópia a confirmar"
       ]
     }
 
