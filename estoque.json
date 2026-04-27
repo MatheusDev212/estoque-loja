@@ -30,6 +30,7 @@
         "Manual e chave cópia"
       ]
     },
+
     {
       "nome": "Honda NXR 150 Bros ESD Mix",
       "ano": 2014,
@@ -54,6 +55,7 @@
         "Veículo em ótimo estado"
       ]
     },
+
     {
       "nome": "Audi A4 Sedan 2.0 190cv",
       "ano": 2021,
@@ -85,6 +87,7 @@
         "Manual e chave cópia"
       ]
     },
+
     {
       "nome": "Toyota Hilux SRV 4x4 Flex",
       "ano": 2014,
@@ -113,6 +116,7 @@
         "Documentos 2025 pagos"
       ]
     },
+
     {
       "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
       "ano": 2020,
@@ -146,6 +150,7 @@
         "Veículo de único dono"
       ]
     },
+
     {
       "nome": "Hyundai Tucson GLS 2.0 Automático",
       "ano": 2013,
@@ -173,6 +178,7 @@
         "Veículo com total procedência (sem leilão ou sinistro)"
       ]
     },
+
     {
       "nome": "Hyundai HB20 Comfort 1.0",
       "ano": 2025,
@@ -203,6 +209,7 @@
         "Único dono"
       ]
     },
+
     {
       "nome": "VW Polo Track 1.0",
       "ano": 2025,
@@ -212,8 +219,8 @@
       "combustivel": "Flex",
       "descricao": "VW Polo Track 1.0 2025, completo, revisado e em excelente estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2016.11.49.jpeg?raw=true",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/polo2.jpeg"
+        "",
+        ""
       ],
       "opcionais": [
         "Motor 1.0 flex",
