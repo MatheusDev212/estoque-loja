@@ -219,8 +219,8 @@
       "combustivel": "Flex",
       "descricao": "VW Polo Track 1.0 2025, completo, revisado e em excelente estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37.jpeg?raw=true",
-        ""
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37%20(1).jpeg"
       ],
       "opcionais": [
         "Motor 1.0 flex",
@@ -237,6 +237,36 @@
         "Veículo com total procedência (sem leilão ou sinistro)",
         "Manual e chave cópia",
         "Único dono"
+      ]
+    },
+
+    {
+      "nome": "Renault Duster 1.6 Automática",
+      "ano": 2022,
+      "preco_de": 97900,
+      "preco_por": 92900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Renault Duster 1.6 automática 2022, completa, revisada e em excelente estado",
+      "fotos": [
+        "",
+        ""
+      ],
+      "opcionais": [
+        "Motor 1.6 flex",
+        "Ar condicionado digital",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em couro",
+        "Som multimídia",
+        "Câmera de ré"
+      ],
+      "observacoes": [
+        "63 mil kms",
+        "04 pneus bons",
+        "Documentos 2025 pagos",
+        "Segundo dono"
       ]
     }
   ]
