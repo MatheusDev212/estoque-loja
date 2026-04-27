@@ -9,13 +9,11 @@
       "cambio": "Manual",
       "combustivel": "Flex",
       "descricao": "Veículo revisado, com diversos opcionais para segurança e conforto",
-
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.30.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.31.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2013.20.32.jpeg"
       ],
-
       "opcionais": [
         "Ar condicionado",
         "Direção elétrica",
@@ -26,7 +24,6 @@
         "Rodas esportivas",
         "Som interno"
       ],
-
       "observacoes": [
         "Documentos em dia",
         "Veículo com total procedência (sem leilão ou sinistro)",
@@ -41,18 +38,15 @@
       "cambio": "Manual",
       "combustivel": "Flex",
       "descricao": "Moto revisada, em ótimo estado de conservação",
-
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.02.39%20(1).jpeg"
       ],
-
       "opcionais": [
         "Partida elétrica",
         "Freio a disco",
         "Banco em couro"
       ],
-
       "observacoes": [
         "41 mil kms",
         "Documentos 2026 em aberto",
@@ -68,12 +62,10 @@
       "cambio": "Automático",
       "combustivel": "Gasolina",
       "descricao": "Audi A4 Sedan 2021, completo, revisado e em excelente estado",
-
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46.jpeg",
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2014.22.46%20(1).jpeg"
       ],
-
       "opcionais": [
         "Teto solar",
         "Motor 2.0 190cv",
@@ -87,41 +79,73 @@
         "Som multimídia",
         "Câmera de ré"
       ],
-
       "observacoes": [
         "70 mil kms",
         "Documentos 2025 pagos",
         "Manual e chave cópia"
       ]
+    },
+    {
+      "nome": "Toyota Hilux SRV 4x4 Flex",
+      "ano": 2014,
+      "preco_de": 123900,
+      "preco_por": 119900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "Toyota Hilux SRV 4x4 Flex 2014, revisada e em ótimo estado",
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.32.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2015.07.33.jpeg"
+      ],
+      "opcionais": [
+        "Motor 2.7 Flex",
+        "Tração 4x4",
+        "Ar condicionado",
+        "Direção elétrica",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em couro",
+        "Rodas esportivas"
+      ],
+      "observacoes": [
+        "131 mil kms",
+        "04 pneus bons",
+        "Documentos 2025 pagos"
+      ]
     }, {
-  "nome": "Toyota Hilux SRV 4x4 Flex",
-  "ano": 2014,
-  "preco_de": 123900,
-  "preco_por": 119900,
+  "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
+  "ano": 2020,
+  "preco_de": 129900,
+  "preco_por": 124900,
   "cambio": "Automático",
-  "combustivel": "Flex",
-  "descricao": "Toyota Hilux SRV 4x4 Flex 2014, revisada e em ótimo estado",
+  "combustivel": "Diesel",
+  "descricao": "Jeep Compass Limited S 2020 Diesel, completo, revisado e em excelente estado",
 
   "fotos": [
-    "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2015.07.32.jpeg?raw=true",
-    "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/HILUX2.jpeg"
+    "COLE_AQUI_FOTO_1",
+    "COLE_AQUI_FOTO_2"
   ],
 
   "opcionais": [
-    "Motor 2.7 Flex",
+    "Teto solar panorâmico",
+    "Motor 2.0 Diesel",
     "Tração 4x4",
     "Ar condicionado",
     "Direção elétrica",
     "Vidros elétricos",
     "Travas elétricas",
     "Bancos em couro",
-    "Rodas esportivas"
+    "Rodas esportivas",
+    "Som multimídia",
+    "DVD traseiro encosto de cabeça"
   ],
 
   "observacoes": [
-    "131 mil kms",
-    "04 pneus bons",
-    "Documentos 2025 pagos"
+    "04 pneus seminovos",
+    "Documentos em dia",
+    "Veículo com total procedência (sem leilão ou sinistro)",
+    "Manual e chave cópia",
+    "Veículo de único dono"
   ]
 }
   ]
