@@ -30,7 +30,6 @@
         "Manual e chave cópia"
       ]
     },
-
     {
       "nome": "VW Gol 1.0",
       "ano": 2023,
@@ -39,10 +38,7 @@
       "cambio": "Manual",
       "combustivel": "Flex",
       "descricao": "VW Gol 1.0 2023, completo, revisado e em excelente estado",
-      "fotos": [
-        "",
-        ""
-      ],
+      "fotos": ["", ""],
       "opcionais": [
         "Motor 1.0 flex",
         "Ar condicionado",
@@ -60,7 +56,6 @@
         "Único dono"
       ]
     },
-
     {
       "nome": "Honda NXR 150 Bros ESD Mix",
       "ano": 2014,
@@ -85,7 +80,6 @@
         "Veículo em ótimo estado"
       ]
     },
-
     {
       "nome": "Audi A4 Sedan 2.0 190cv",
       "ano": 2021,
@@ -117,7 +111,6 @@
         "Manual e chave cópia"
       ]
     },
-
     {
       "nome": "Toyota Hilux SRV 4x4 Flex",
       "ano": 2014,
@@ -146,7 +139,6 @@
         "Documentos 2025 pagos"
       ]
     },
-
     {
       "nome": "Jeep Compass Limited S 2.0 Diesel 4x4",
       "ano": 2020,
@@ -180,7 +172,6 @@
         "Veículo de único dono"
       ]
     },
-
     {
       "nome": "Renault Duster 1.6 Automática",
       "ano": 2022,
@@ -210,7 +201,6 @@
         "Segundo dono"
       ]
     },
-
     {
       "nome": "Hyundai Creta Limited 1.0 Turbo",
       "ano": 2024,
@@ -220,8 +210,8 @@
       "combustivel": "Flex",
       "descricao": "Hyundai Creta Limited 2024 automática, completa, revisada e em excelente estado",
       "fotos": [
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45.jpeg?raw=true",
-        "https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45%20(1).jpeg?raw=true"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2017.13.45%20(1).jpeg"
       ],
       "opcionais": [
         "Motor 1.0 Turbo",
@@ -238,6 +228,34 @@
         "04 pneus seminovos",
         "Documentos em dia",
         "Manual e chave cópia"
+      ]
+    },
+    {
+      "nome": "GM Onix 1.4 LT Automático",
+      "ano": 2019,
+      "preco_de": 68900,
+      "preco_por": 66900,
+      "cambio": "Automático",
+      "combustivel": "Flex",
+      "descricao": "GM Onix LT 1.4 automático 2019, completo, revisado e em excelente estado",
+      "fotos": [
+        "",
+        ""
+      ],
+      "opcionais": [
+        "Motor 1.4 flex",
+        "Direção hidráulica",
+        "Ar condicionado",
+        "Vidros elétricos",
+        "Travas elétricas",
+        "Bancos em tecido"
+      ],
+      "observacoes": [
+        "106 mil kms",
+        "04 pneus seminovos",
+        "Documentos 2025 pagos",
+        "Manual e chave cópia",
+        "Veículo com total procedência (sem leilão ou sinistro)"
       ]
     }
   ]
