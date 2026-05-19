@@ -266,7 +266,7 @@
       "descricao": "Golf Highline 1.4 TSI com teto solar",
       "fotos": [
         "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2018.03.10.jpeg",
-        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-04-27%20at%2018.03.11.jpeg"
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%202026-04-27%20at%2018.03.11.jpeg"
       ],
       "opcionais": [
         "Motor 1.4 TSI",
@@ -317,7 +317,12 @@
       "cambio": "Automático",
       "combustivel": "Flex",
       "descricao": "Fiat Strada 1.8 Flex automática",
-      "fotos": [],
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2014.30.39.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2014.30.39%20(1).jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2014.30.38.jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2014.30.38%20(1).jpeg"
+      ],
       "opcionais": [
         "Câmbio Automático",
         "Direção hidráulica",
@@ -338,10 +343,12 @@
       "cambio": "Manual",
       "combustivel": "Flex",
       "descricao": "VW Gol Power 1.6 completo",
-      "fotos": [https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(1).jpeg?raw=true
-      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(2).jpeg?raw=true
-      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(3).jpeg?raw=true
-      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-08%20at%2017.50.57.jpeg?raw=true],
+      "fotos": [
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(1).jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(2).jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2017.50.56%20(3).jpeg",
+        "https://raw.githubusercontent.com/MatheusDev212/estoque-loja/main/WhatsApp%20Image%202026-05-08%20at%2017.50.57.jpeg"
+      ],
       "opcionais": [
         "Motor 1.6 flex",
         "Direção hidráulica",
