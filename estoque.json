@@ -41,7 +41,9 @@
       "combustivel": "Flex",
       "descricao": "VW Gol 1.0 2023, completo, revisado e em excelente estado",
       "fotos": [https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37.jpeg?raw=true
-      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37%20(1).jpeg?raw=true],
+      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-04-27%20at%2016.37.37%20(1).jpeg?raw=true
+      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-03%20at%2020.34.20%20(2).jpeg?raw=true
+      https://github.com/MatheusDev212/estoque-loja/blob/main/WhatsApp%20Image%202026-05-03%20at%2020.34.19.jpeg?raw=true],
       "opcionais": [
         "Motor 1.0 flex",
         "Ar condicionado",
@@ -259,8 +261,8 @@
     {
       "nome": "VW Golf Highline 1.4 TSI",
       "ano": 2014,
-      "preco_de": 89900,
-      "preco_por": 85900,
+      "preco_de": 84900,
+      "preco_por": 82900,
       "cambio": "Automático",
       "combustivel": "Flex",
       "descricao": "Golf Highline 1.4 TSI com teto solar",
